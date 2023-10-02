@@ -40,7 +40,7 @@ export const PressAndMedia = () => {
 							Contact us
 						</div>
 						<div className="press-and-media__top-block-text">
-							Get in touch via email <a href="">team@snorelab.com</a>
+							Get in touch via email <a href="mailto:team@snorelab.com">team@snorelab.com</a>
 						</div>
 					</div>
 				</div>

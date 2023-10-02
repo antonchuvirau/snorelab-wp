@@ -313,7 +313,7 @@ export const footerLinks = {
   company: [
     { text: 'About', link: '/about' },
     { text: 'Careers', link: '/careers' },
-    { text: 'Press', link: '/contact' },
+    { text: 'Press', link: '/press-and-media' },
   ],
 };
 

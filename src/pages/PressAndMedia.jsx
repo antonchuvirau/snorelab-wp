@@ -183,7 +183,7 @@ export const PressAndMedia = () => {
 						<a
 							className="press-and-media__article"
 							target="_blank"
-							href=""
+							href="https://drive.google.com/drive/folders/1t1qpUViEdbIX20PtAf5cd7wEI9Lx2K1Y?usp=sharing"
 						>
 							<div
 								className="press-and-media__article-image"
